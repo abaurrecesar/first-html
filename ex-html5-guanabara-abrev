@@ -1,0 +1,13 @@
+<!-- Exercicios Guanabara HTML5-->
+<!-- https://github.com/gustavoguanabara/html-css/blob/master/desafios/modulo-01/d006/desafio-tags.pdf -->
+
+<h2> Explicando abreviações</h2
+<p> explique as abreviações abaixo</p>
+<ol>
+ <li> <abbr title="Use a TAG <a>">Parágrafos</abbr></li> 
+ <li> <abbr title="Use a tag <img src=...>">Imagens</abbr></li>
+ <li> <abbr title="Use a tag <a href=https://">Adicionar Site e links</abbr></li>
+ <li> <abbr title="vai usar<ol>"> Listas Ordenadas </abbr></li>
+ 
+ </ol>
+ 
