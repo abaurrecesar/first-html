@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!-- ajudas para letras com acento 
+á ã à   
+ê é
+í
+ó õ
+ç
+ú
+
+
+-->
+<html>
+<head>
+<title>Gravida na Espanha</title>
+<!-- <link rel="shortcut icon" href="insira_aqui_o_caminho" type="image/x-icon" /> -->
+<style>
+
+
+</style>
+</head>
+<body>
+<!-- colocar uma imagem, usar um emblema ou foto(img =src***** id="foto1") e colocar no topo do site
+			#foto1 {
+
+            width: 250px;
+
+            position: absolute;
+
+            top: 20px;
+
+            left: 10px;
+
+            z-index: 1;
+-->
+    <h2> Bem vindo ao nosso cotidiano "Grávidos" na <b>Espanha</b> em 2023</h2>
+    <p> Aqui falaremos um pouco sobe:</p>
+    <ul><!-- Colocar os links <nav> -->
+    	<li> Primeiro trimestre </li>
+    	<li> Acompanhamento pelo Cap</li>
+    	<li> Acompanhamento pela "Mutua"</li>
+    </ul>
+    <h3 id="quem"> Quem somos nós: </h3>
+    <p id="intro"> Meu nome é Cesar, e sou casado com Fernanda.<br> Há cerca de 5 anos atrás saimos de Vitória - ES para tentar uma vida diferente na Europa, com o intuito de viajar e aprender novas culturas, e em meados de março de 2023 descobrimos que estávamos grávidos, contaremos um pouco da nossa experiência em um país diferente e em familiar por perto.: </p>
+    <br>
+   <h3> Primeiro Trimestre na gravidez:</h3>
+   <p> Antes de explicar um pouco, gostaria de deixar claro, que não tivemos a ajuda de familiar, aqui na Espanha, somos Eu e Fernanda, Fernanda e Eu.</p>
+   <p id="dk1"> Logo que descobrimos que Fernanda estava grávida, buscamos uma orientação pelo nosso plano particular de saúde na Espanha <a href="https://dkv.es/particulares" target="_blank"> DKV</a> e pelo serviço público espanhol <a href="https://catsalut.gencat.cat/ca/inici/" target="_blank">CAP</a> (Centro de Atenção Primária) no qual falarei um pouco mais adiante.</p> 
+   <p> Antes de falar de fato o que foi o primeiro trimestre, e destacar alguns pontos, vale expor aqui, que Fernanda teve um aborto espontâneo há algum bom tempo antes de engravidar comigo, então esse inicio, para nós, e mais ainda para ela, foi de extrema ansiedade e MEDO, sim, esse foi um MEDO na qual passamos juntos.
+   <p> O primeiro trimestre de gravidez, foi bem chatinho para Fernanda, já que ela não tinha vontade de fazer nada, isso por que o nível de progesterona da mãe vai disparar e isso pode fazer com que ela se sinta sonolenta.
+   <p> Por sorte eu escutei muitos outros pais que disseram que isso poderia acontecer e me deram a dica de ser paciente, e servir em todos os momentos, SIM meus caros PAPAIS, vocês estão entrando em uma fase de SERVIR a sua companheira e tenham em mente que o que ela está carregando, será o seu maior bem na terra, então <b> seja paciente, carinhoso e tente ajudar em tudo que puder e sem reclamar,</b> basicamente o primeiro trimestre foi e será lembrado em nossas memórias com Fernanda na cama sonolenta, e sem vontade de fazer muita coisa </p>
+   
+   <h3> Acompanhamento pelo Cap</h3>
+   <p> Aqui na Espanha, o serviço público é excelente e não temos muito do que reclamar, mas infelizmente o procedimento deles em relação ao acompanhamento de gravidez, isso por que eles apenas fazem a primeira ultrassonografia depois de passadas 12 semanas de gestação já que infelizmente é comum a gravidez nao dar continuidade antes das 12 semanas, que foi o caso da Fernanda, lembram que comentei sobre isso?
+   <p> Passadas as 12 semanas, fizemos o primeiro atendimento pelo serviço público, e fomos muito bem atendidos e encaminhados, nos explicando os próximos passos, e nos deram uma "caixinha" de boas vindas ao mundo gestacional, que incluía um óleo da <a href="https://www.mustela.es/products/aceite-estrias-certificado-bio">mustela</a>...<!-- uma chupetinha >COMPLETAR COM O RESTO DOS ITENS-->  
+   
+   <h3> Acompanhamento pela "Mutua"</h3>
+   <p> Antes de mais nada, é preciso explicar que a "Mutua" é o nome que damos ao plano de saúde particular aqui na Espanha.</p>
+   <p> Temos o plano da <a href="#dk1">DKV</a>, como foi dito acima
+   
+    
+ 
+
+</body>
+</html>
